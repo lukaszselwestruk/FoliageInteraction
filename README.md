@@ -11,9 +11,9 @@ More features to come.
 
 II. Folder Architecture:
 
-- core: Blueprints and coding-related materials.
-- art: Graphics for everything except characters.
-- map: Level design and layouts.
+- Core: Blueprints and coding-related materials.
+- Art: Graphics for everything except characters.
+- Map: Level design and layouts.
 - Characters: All assets related to characters.
 
   Link to repo https://dev.azure.com/untoldcode/_git/FoliageInteraction
